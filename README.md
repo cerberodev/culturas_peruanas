@@ -1,6 +1,6 @@
-# culturas_peruanas
+# Culturas del Perú APP
 
-A new Flutter project.
+Aplicación hecha con el SDK Flutter, de las Culturas del Perú.
 
 ## Getting Started
 
